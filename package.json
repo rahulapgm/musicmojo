@@ -1,7 +1,4 @@
 {
-      "name": "to-do",
-      "version": "1.0.0",
-      "description": "Simple todo app",
       "main": "server.js",
       "scripts": {
            "start": "node server.js",
@@ -13,11 +10,7 @@
       ],
       "dependencies" : {
           "express"    : "~4.7.2",
-          "mongoose"   : "~3.6.2",
-          "morgan"     : "~1.2.2",
           "body-parser": "~1.5.2",
-          "method-override": "~2.1.2"
-      },
-      "author": "atefth@gmail.com",
-      "license": "MIT"
+          "request" : "~2.4.20"
+      }
 }
