@@ -10,6 +10,6 @@
       ],
       "dependencies" : {
           "express"    : "~4.7.2",
-          "body-parser": "~1.5.2",
+          "body-parser": "~1.5.2"
       }
 }
